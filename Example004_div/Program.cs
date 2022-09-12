@@ -1,3 +1,3 @@
-﻿double numberA = new Random().Next(1, 10);
-double numberB = new Random().Next(1, 10);
+﻿double numberA = 1;
+double numberB = 3;
 Console.WriteLine(numberA / numberB);
